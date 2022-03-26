@@ -1,0 +1,17 @@
+{
+  "name": "solarsnowfall/string-convention",
+  "description": "Simple property mapping basis for ORM.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Travis Miller",
+      "email": "travis@twooutrally.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Solarsnowfall\\" : "src"
+    }
+  }
+}
